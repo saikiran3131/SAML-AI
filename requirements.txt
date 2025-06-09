@@ -14,4 +14,3 @@ pandas
 plotly
 docx2txt
 dotenv
-os
