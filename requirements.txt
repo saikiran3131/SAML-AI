@@ -12,4 +12,4 @@ pypdf
 openpyxl
 pandas
 plotly
-document_loaders
+docx2txt
