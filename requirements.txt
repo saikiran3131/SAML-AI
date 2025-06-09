@@ -12,3 +12,4 @@ pypdf
 openpyxl
 pandas
 plotly
+document_loaders
